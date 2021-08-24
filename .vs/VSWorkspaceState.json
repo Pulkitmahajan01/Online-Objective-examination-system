@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\config",
+    "\\database",
+    "\\models",
+    "\\routes"
+  ],
+  "SelectedNode": "\\routes\\make_exam_controller.js",
+  "PreviewInSolutionExplorer": false
+}
