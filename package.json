@@ -1,0 +1,34 @@
+{
+  "name": "online-objective-examination-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "consola": "^2.15.3",
+    "cookie-parser": "^1.4.5",
+    "debug": "^4.3.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "jade": "^1.11.0",
+    "method-override": "^3.0.0",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.5",
+    "monk": "^7.3.4",
+    "morgan": "^1.10.0",
+    "nodejs": "0.0.0",
+    "nodemon": "^2.0.12",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
